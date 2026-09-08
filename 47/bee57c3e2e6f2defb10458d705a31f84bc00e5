@@ -1,0 +1,42 @@
+test/registered/unit/spec/test_dspark_acceptance_policy.py
+  s_ceac9828407393::t_99668763d09b4d 1-223
+python/sglang/srt/speculative/dspark_components/acceptance_policy.py
+  s_ceac9828407393::t_12d602198069be 1-82
+python/sglang/srt/speculative/dspark_components/dspark_verify.py
+  s_ceac9828407393::t_fc58256bc8ee19 35-37
+  s_ceac9828407393::t_b97b43692f3278 96,105,123,133-138,141-167
+python/sglang/srt/speculative/dspark_components/dspark_worker_v2.py
+  s_ceac9828407393::t_90fcda8b9cdcc2 352-353,363
+  s_ceac9828407393::t_27a31fa5e7303c 515-531
+  s_ceac9828407393::t_11c504b91a9805 844
+  s_ceac9828407393::t_5d8a38087df817 42-44
+  s_ceac9828407393::t_dcf29a3db04a19 542-543
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "47bee57c3e2e6f2defb10458d705a31f84bc00e5",
+  "prompts": {},
+  "sessions": {
+    "s_ceac9828407393": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a93c8240475eb9b74170c45",
+        "model": "glm-5.3__max"
+      },
+      "human_author": "Kissmetothemoon <yanruo.f@gmail.com>",
+      "custom_attributes": {
+        "operation_id": "6a9fd2ddc3b6a22154c73e56",
+        "runtime_client": "trae-tob-git-ai",
+        "external_session_id": "6a93c8240475eb9b74170c45",
+        "tool_use_id": "6a9fd2ddc3b6a22154c73e56",
+        "edit_kind": "bash",
+        "tool_name": "RunCommand",
+        "display_model_name": "GLM-5.3",
+        "source_scene": "agent",
+        "session_id": "6a93c8240475eb9b74170c45",
+        "client_type": "ide"
+      }
+    }
+  }
+}
